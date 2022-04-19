@@ -5,9 +5,10 @@ instruction for install:
   3. Run file and enjoy
 
 in result.json will be appear wallets with this format: 
-{
 
-        "mnemonic": "slender leisure clog borrow combine fiscal science half between conduct foster oxygen trophy renew term",
+
+
+    {    "mnemonic": "slender leisure clog borrow combine fiscal science half between conduct foster oxygen trophy renew term",
         
         "address_eth": "0x17949097167e89E06e6d52E9B375408d47A1cB96",
         
