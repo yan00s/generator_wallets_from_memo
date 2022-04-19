@@ -1,7 +1,7 @@
 # generator_wallets_from_memo
 instruction for install:
   1. Install python 3.9+
-  2. Write in console: pip install bip32utils
+  2. Write in console: pip install bip32utils eth-keys mnemonic
   3. Run file and enjoy
 
 in result.json will be appear wallets with this format: 
